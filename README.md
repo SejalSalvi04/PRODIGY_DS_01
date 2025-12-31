@@ -8,7 +8,7 @@ Data Science Internship – Task 01
 Create visualizations using bar charts and histograms to understand data distribution.
 
 ### Dataset
-Population Dataset :  https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%202
+Population Dataset :   https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%201
 
 ### Tools Used
 Python, Pandas, Matplotlib, Seaborn
